@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "abc122",
+    "title": "Cannot save a Car",
+    "severity": 5,
+    "createdAt": 1642107559454,
+    "labels": "['critical', 'need-CR']",
+
+    "creator": {
+      "_id": "x8vDb",
+      "fullname": "Amir Sha"
+    }
+  },
+  {
+    "_id": "abc1292",
+    "title": "Cannot save a Car",
+    "description": "problem when clicking Save",
+    "severity": 6,
+    "createdAt": 1542100559954,
+    "labels": "['critical', 'need-CR']",
+    "creator": {
+      "_id": "u102",
+      "fullname": "Muki Ma"
+    }
+  },
+  {
+    "_id": "abc153",
+    "title": "Keyboard Not Found",
+    "description": "problem when clicking Save",
+    "severity": 3,
+    "createdAt": 1592107559454,
+    "labels": "['need-CR', 'dev-branch']",
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    }
+  },
+  {
+    "_id": "abc3123",
+    "title": "Unexpected Response",
+    "description": "problem when clicking Save",
+    "severity": 4,
+    "createdAt": 1502107354454,
+    "labels": "[ 'dev-branch']",
+    "creator": {
+      "_id": "u101",
+      "fullname": "Puki Ja"
+    }
+  },
+  {
+    "_id": "abc11253",
+    "title": "Keyboard Not Found",
+    "description": "problem when clicking Save",
+    "severity": 2,
+    "createdAt": 1642191259454,
+    "labels": "['critical']",
+    "creator": {
+      "_id": "u102",
+      "fullname": "Muki Ma"
+    }
+  },
+  {
+    "_id": "cvvabc153",
+    "title": "Keyboard Not Found",
+    "description": "problem when clicking Save",
+    "severity": 3,
+    "createdAt": 1242107559454,
+    "labels": "['need-CR']",
+    "creator": {
+      "_id": "u102",
+      "fullname": "Muki Ma"
+    }
+  }
+]
